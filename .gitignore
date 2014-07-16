@@ -1,0 +1,13 @@
+brian/.ipynb_checkpoints/
+irene/.ipynb_checkpoints/
+#data/all_accidents.csv
+*.csv
+data/
+*.m
+*.gz
+*.txt
+*.png
+*.JPG
+*.pckl
+*.pyc
+*.zip
